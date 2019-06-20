@@ -1,3 +1,3 @@
 # Test git
 
-Check if Git working properly on my computer
+Check if Git working properly on my computer.
